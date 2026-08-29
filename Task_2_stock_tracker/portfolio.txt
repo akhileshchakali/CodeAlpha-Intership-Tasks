@@ -1,0 +1,8 @@
+
+
+-------Stock Portfolio-------
+AAPL : 2 shares x $180 = $360
+AMZN : 3 shares x $175 = $525
+
+----------------------------
+Total Investment: $885
